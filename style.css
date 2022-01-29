@@ -43,9 +43,10 @@ body{
    color: orange;
    font-style: normal; 
    background: yellow;
-   width: 20%;
+   width: 40%;
    height: 30px;
     vertical-align: text-bottom;
+    
 }
 
 .header_div h4{
@@ -53,7 +54,7 @@ body{
     font-style: normal;
     font-size: 25px;
     background:red;
-    width: 20%;
+    width: 40%;
     height: 30px;
      vertical-align: text-bottom;
 }
